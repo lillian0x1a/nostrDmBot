@@ -1,4 +1,4 @@
-# dm
+# nostrDmBot
 
 This is a nostr DM bot used nip17.
 
