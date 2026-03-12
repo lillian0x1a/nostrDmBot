@@ -76,5 +76,3 @@ if (!relays) throw new Error("RELAYS is not set");
 
 await Promise.allSettled(pool.publish(relays, giftWrap));
 pool.close(relays);
-
-console.log("NIP17 DM Sent!");
