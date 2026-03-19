@@ -22,4 +22,4 @@ bunx biome check --write
 This project was created using `bun init` in bun v1.3.10. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
 
 ## license
-This project is licensed under the WTFPL or NYSL([煮るなり焼くなり好きにしろライセンス](./LICENSE-NYSL).
+This project is licensed under the WTFPL or NYSL([煮るなり焼くなり好きにしろライセンス](./LICENSE-NYSL)).
